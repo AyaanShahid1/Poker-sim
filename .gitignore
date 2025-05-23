@@ -1,0 +1,4 @@
+echo "poker_data.csv" >> .gitignore
+poker_data.csv
+*.log
+__pycache__/
